@@ -15,6 +15,7 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 - 
 ## **Skills**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGubau)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Languages**: Typescript, Nest, PostgresSQL
 - **Frameworks/Libraries**: React, Vue.js, Bootstrap, Tailwind CSS

@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Pol Gubau, a passionate frontend developer wit
 
 ## **GitHub Stats**
 
-![Github Stats]([https://example.com/path/to/gif.gif](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light))
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light)
 
 
 ## **Let's Connect!**

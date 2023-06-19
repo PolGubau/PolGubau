@@ -1,25 +1,16 @@
-### Hi there 👋
-
-<!--
-**PolGubau/PolGubau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# **Pol Gubau**
+# **Pol Gubau Amores**
 
 ## **Frontend Developer | UI/UX Enthusiast**
 
 Welcome to my GitHub profile! I'm Pol Gubau, a passionate frontend developer with a keen interest in creating visually appealing and user-friendly web interfaces. I love crafting beautiful designs and transforming them into functional and responsive websites. With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
 
+
+- 🔭 I’m currently working on  [Mesalvo GmbH]([https://example.com](https://www.linkedin.com/company/mesalvo/?originalSubdomain=se))
+- 🌱 I’m currently learning Nest and Next hehe
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 I’m looking for help with Backend technologies.
+
+- 
 ## **Skills**
 
 - **Languages**: Typescript, Nest, PostgresSQL
@@ -30,7 +21,8 @@ Welcome to my GitHub profile! I'm Pol Gubau, a passionate frontend developer wit
 
 ## **GitHub Stats**
 
-https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light
+![Github Stats]([https://example.com/path/to/gif.gif](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light))
+
 
 ## **Let's Connect!**
 

@@ -1,8 +1,11 @@
-# **Pol Gubau Amores**
+# ** 🤠 Pol Gubau Amores**
 
 ## **Frontend Developer | UI/UX Enthusiast**
 
-Welcome to my GitHub profile! I'm Pol Gubau, a passionate frontend developer with a keen interest in creating visually appealing and user-friendly web interfaces. I love crafting beautiful designs and transforming them into functional and responsive websites. With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
+Welcome to my GitHub profile! 
+I'm Pol Gubau, a passionate frontend developer with a keen interest in creating visually appealing and user-friendly web interfaces. 
+I love crafting beautiful designs and transforming them into functional and responsive websites. 
+With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
 
 
 - 🔭 I’m currently working on  [Mesalvo GmbH]([https://example.com](https://www.linkedin.com/company/mesalvo/?originalSubdomain=se))
@@ -25,11 +28,10 @@ Welcome to my GitHub profile! I'm Pol Gubau, a passionate frontend developer wit
 
 
 ## **Let's Connect!**
-
-I'm always excited to collaborate on new projects and connect with fellow developers. You can reach out to me via the following channels:
+You can reach out to me via the following channels:
 
 - GitHub: **[PolGubau](https://github.com/PolGubau)**
 - LinkedIn: **[Pol Gubau](https://www.linkedin.com/in/pol-gubau/)**
-- Email: **[pol.gubau@example.com](mailto:pol.gubau@example.com)**
+- Email: **[gubaupolu@gmail.com](mailto:gubaupolu@gmail.com)**
 
-Feel free to explore my repositories and don't hesitate to get in touch. Let's create amazing web experiences together!
+Feel free to explore my repositories and don't hesitate to get in touch. 

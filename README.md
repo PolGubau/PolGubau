@@ -1,4 +1,4 @@
-# ** 🤠 Pol Gubau Amores**
+#  🤠 Pol Gubau Amores
 
 ## **Frontend Developer | UI/UX Enthusiast**
 

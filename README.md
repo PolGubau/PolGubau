@@ -13,7 +13,9 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with Backend technologies.
 
-- 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 ## **Skills**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGubau&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

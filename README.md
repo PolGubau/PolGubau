@@ -16,7 +16,8 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 
 
-  Wakatime since 19.06.2023
+Wakatime since 19.06.2023
+  
 [![PolGubau's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau)](https://github.com/anuraghazra/github-readme-stats)
 
   

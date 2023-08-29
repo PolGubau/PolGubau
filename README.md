@@ -8,10 +8,10 @@ I love crafting beautiful designs and transforming them into functional and resp
 With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
 
 
-- 🔭 I’m currently working on  [Mesalvo GmbH]([https://example.com](https://www.linkedin.com/company/mesalvo/?originalSubdomain=se))
-- 🌱 I’m currently learning Nest and Next hehe
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Backend technologies.
+- 🔭 Working inside  [Mesalvo GmbH]([https://example.com](https://www.linkedin.com/company/mesalvo/?originalSubdomain=se))
+- 🌱 Learning Nest and Next hehe
+- 👯 Looking to collaborate on Open Source Projects.
+- 🤔 Looking for help with Backend technologies.
 
 
 

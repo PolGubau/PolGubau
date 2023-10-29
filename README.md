@@ -31,10 +31,8 @@ Wakatime since 19.06.2023
 - **Design Tools**: Figma, Adobe Photoshop
 
 
-## **GitHub Stats**
-
-#![Github Stats](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light)
-
+ 
+ 
 
 ## **Let's Connect!**
 You can reach out to me via the following channels:

@@ -33,7 +33,7 @@ Wakatime since 19.06.2023
 
 ## **GitHub Stats**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light)
+#![Github Stats](https://github-readme-stats.vercel.app/api?username=PolGubau&show_icons=true&theme=light)
 
 
 ## **Let's Connect!**

@@ -16,10 +16,10 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 
 
-Wakatime since 19.06.2023
-  
-[![PolGubau's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau)](https://github.com/anuraghazra/github-readme-stats)
 
+  
+
+![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact)
   
 ## **Skills**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGubau&layout=donut)](https://github.com/anuraghazra/github-readme-stats)

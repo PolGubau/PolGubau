@@ -22,7 +22,7 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 
   
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fra432&theme=solarized-dark&background=FFFFFF)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolGubau&theme=solarized-dark&background=FFFFFF)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGubau&layout=compact&theme=default)](https://git.io/streak-stats)
 

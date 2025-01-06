@@ -8,14 +8,6 @@ I love crafting beautiful designs and transforming them into functional and resp
 With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
 
 
-- 🔭 Working inside  [Mesalvo GmbH]([https://example.com](https://www.linkedin.com/company/mesalvo/?originalSubdomain=se))
-- 🌱 Learning Nest and Next hehe
-- 👯 Looking to collaborate on Open Source Projects.
-- 🤔 Looking for help with Backend technologies.
-
-
-
-
 
   
 ![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact)

@@ -9,7 +9,8 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 
 
-  
+  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 ![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact)
 
 

@@ -9,7 +9,17 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 
 ![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact)
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolGubau&theme=solarized-dark&background=FFFFFF)
   

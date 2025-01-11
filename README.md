@@ -7,10 +7,6 @@ I'm Pol Gubau, a passionate frontend developer with a keen interest in creating 
 I love crafting beautiful designs and transforming them into functional and responsive websites. 
 With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
 
-
-
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/PolGubau/langs)](https://githubtrends.io)
-
 ![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact)
 
 

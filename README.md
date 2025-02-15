@@ -6,10 +6,10 @@ Welcome to my GitHub profile!
 I'm Pol Gubau, a passionate frontend developer with a keen interest in creating visually appealing and user-friendly web interfaces. 
 I love crafting beautiful designs and transforming them into functional and responsive websites. 
 With a strong focus on user experience, I strive to build intuitive and seamless digital experiences.
-
+ <!--
 <a href="https://github.com/PolGubau/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolGubau" /> <!-- &rank_icon=percentile -->
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolGubau" /> &rank_icon=percentile 
+</a> -->
 <a href="https://github.com/PolGubau/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolGubau&layout=compact&langs_count=8&card_width=320" />
 </a>

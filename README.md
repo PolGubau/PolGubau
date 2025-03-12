@@ -29,3 +29,5 @@ You can reach out to me via the following channels:
 - Email: **[gubaupolu@gmail.com](mailto:gubaupolu@gmail.com)**
 
 Feel free to explore my repositories and don't hesitate to get in touch. 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PolGubau&label=Profile%20views&color=0e75b6&style=flat" alt="Pol Gubau" /> </p>

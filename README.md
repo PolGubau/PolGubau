@@ -25,7 +25,7 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 You can reach out to me via the following channels:
 
 - GitHub: **[PolGubau](https://github.com/PolGubau)**
-- LinkedIn: **[Pol Gubau](https://www.linkedin.com/in/pol-gubau/)**
+- LinkedIn: **[Pol Gubau](https://www.linkedin.com/in/polgubauamores/)**
 - Email: **[gubaupolu@gmail.com](mailto:gubaupolu@gmail.com)**
 
 Feel free to explore my repositories and don't hesitate to get in touch. 

@@ -20,7 +20,7 @@ With a strong focus on user experience, I strive to build intuitive and seamless
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PolGubau&theme=default)](https://git.io/streak-stats)
 
 <!-- ![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact) 
-
+![Wakatime since 19.06.2023](https://github-readme-stats.vercel.app/api/wakatime?username=PolGubau\&layout=compact) 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolGubau&theme=solarized-dark&background=FFFFFF)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolGubau&layout=compact&theme=default)](https://git.io/streak-stats) -->

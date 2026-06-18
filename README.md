@@ -20,10 +20,9 @@ Building fast, accessible web and mobile products.
 
 ## About
 
-- 🏢 Senior Frontend Engineer at **[Mesalvo](https://mesalvo.com)**, co-founder of **[Doscientos](https://doscientos.es)** — a software studio building MVPs in 6 weeks for businesses that outgrew Excel and generic SaaS.
-- 🧩 Author of **[`pol-ui`](https://github.com/PolGubau/pol-ui)** (Bachelor's thesis), **[`@polgubau/flags`](https://github.com/PolGubau/flags)** and other open-source libraries on NPM.
-- 🎓 Teaching Astro & Tailwind to 35+ students. Featured on TV3.
-- 🌍 `Català` · `Español` · `English` — open to remote collaborations.
+- Senior Frontend Engineer at **[Mesalvo](https://mesalvo.com)**, co-founder of **[Doscientos](https://doscientos.es)**.
+- Teaching modern technologies to students. Featured on TV3.
+- `Català` · `Español` · `English` -> open to remote collaborations.
 
 ## Featured Work
 
@@ -51,14 +50,14 @@ Software studio landing. MVPs in 6 weeks, fixed price, senior engineers from day
 </td>
 <td width="50%" valign="top">
 
-**[@polgubau/flags](https://github.com/PolGubau/flags)** &nbsp;·&nbsp; <sub>`React` `TypeScript` `NPM`</sub> &nbsp; [![npm](https://img.shields.io/npm/dw/@polgubau/flags?style=flat-square&logo=npm&logoColor=white&color=111&label=)](https://www.npmjs.com/package/@polgubau/flags)
+**[@polgubau/flags](https://github.com/PolGubau/flags)** &nbsp;·&nbsp; <sub>`React` `TypeScript` `NPM`</sub> &nbsp; [![npm](https://img.shields.io/npm/dw/react-beauty-flags?style=flat-square&logo=npm&logoColor=white&color=111&label=)](https://www.npmjs.com/package/react-beauty-flags)
 React library for displaying flags as components with metadata and customization options.
 
 </td>
 </tr>
 </table>
 
-<sub>More at [polgubau.com](https://polgubau.com) — Frèsia, Naturastudio, NovaHair, Entre Líneas, Tactil, Tich, Wisemark, Fuzzy…</sub>
+<sub>More at [polgubau.com](https://polgubau.com) - Frèsia, Naturastudio, NovaHair, Entre Líneas, Tactil, Tich, Wisemark, Fuzzy…</sub>
 
 ## Tech Stack
 
